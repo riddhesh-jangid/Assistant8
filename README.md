@@ -3,7 +3,7 @@
 
 Daily life assistant app operable with both voice and text input. [:camera: [Screenshots](https://github.com/riddhesh-jangid/Assistant8/blob/master/README.md#screenshots)] 
 
-<img src="https://github.com/riddhesh-jangid/Assistant8/blob/master/app/src/main/res/screenshots/Welcome.png" height="400px" width="220px" />
+<img src="https://github.com/riddhesh-jangid/Assistant8/blob/master/app/src/main/res/screenshots/Welcome.png" height="400px" width="210px" />
 
 
 ## Features
@@ -70,9 +70,9 @@ Daily life assistant app operable with both voice and text input. [:camera: [Scr
 
 ### Screenshots
 
-<img src="https://github.com/riddhesh-jangid/Assistant8/blob/master/app/src/main/res/screenshots/Home%20page%201.png" height="400px" width="220px" /> <br/>
-<img src="https://github.com/riddhesh-jangid/Assistant8/blob/master/app/src/main/res/screenshots/Home%20page%202.png" height="400px" width="220px" /> <br/>
-<img src="https://github.com/riddhesh-jangid/Assistant8/blob/master/app/src/main/res/screenshots/Birthday.png" height="400px" width="220px" /> <br/>
-<img src="https://github.com/riddhesh-jangid/Assistant8/blob/master/app/src/main/res/screenshots/Password.png" height="400px" width="220px" /> <br/>
+<img src="https://github.com/riddhesh-jangid/Assistant8/blob/master/app/src/main/res/screenshots/Home%20page%201.png" height="400px" width="210px" /> <br/>
+<img src="https://github.com/riddhesh-jangid/Assistant8/blob/master/app/src/main/res/screenshots/Home%20page%202.png" height="400px" width="210px" /> <br/>
+<img src="https://github.com/riddhesh-jangid/Assistant8/blob/master/app/src/main/res/screenshots/Birthday.png" height="400px" width="210px" /> <br/>
+<img src="https://github.com/riddhesh-jangid/Assistant8/blob/master/app/src/main/res/screenshots/Password.png" height="400px" width="210px" /> <br/>
 
 
