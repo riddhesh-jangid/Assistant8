@@ -1,7 +1,7 @@
 :construction: <sub>Jan - Feb 2017</sub>
 # Assistant8 :iphone: 
 
-Daily life assistant app operable with both voice and text input. [:camera: [Screenshots](https://github.com/snakode/Assistant8/blob/master/README.md#screenshots)] 
+Daily life assistant app operable with both voice and text input. [:camera: [Screenshots](https://github.com/riddhesh-jangid/Assistant8/blob/master/README.md#screenshots)] 
 
 <img src="https://github.com/riddhesh-jangid/Assistant8/blob/master/app/src/main/res/screenshots/Welcome.png" height="400px" width="220px" />
 
