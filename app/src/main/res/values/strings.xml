@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assistant8</string>
+    <string name="intro">Hii I am Assistant8. A program that helps you in your daily life. Please first read help</string>
+    <dimen name="btntxtsize">18px</dimen>
+    <string name="open">open</string>
+    <string name="repeat">repeat</string>
+    <string name="exit">exit</string>
+    <string name="save">go</string>
+</resources>

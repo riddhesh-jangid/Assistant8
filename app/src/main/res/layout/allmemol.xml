@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fillViewport="true"
+        >
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:orientation="vertical"
+     android:id="@+id/allmemo_view"
+     android:background="@drawable/background">
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="0px"
+         android:layout_weight="1"
+         android:id="@+id/tv_allmemo"
+         android:layout_margin="10px"
+         />
+     <EditText
+         android:layout_width="match_parent"
+         android:layout_height="0px"
+         android:layout_weight="1"
+         android:id="@+id/ev_allmemo"
+         android:layout_margin="10px"
+         android:gravity="start"
+         />
+ </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

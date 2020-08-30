@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:id="@+id/hideforweb"
+     android:orientation="vertical"
+     android:focusable="true"
+     android:focusableInTouchMode="true"
+     android:background="@drawable/background">
+     <ScrollView
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:layout_weight="1"
+         android:fillViewport="true"
+         >
+         <ListView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:id="@+id/allsite_view"
+             android:layout_marginTop="10dp">
+
+         </ListView>
+
+     </ScrollView>
+     <EditText
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:id="@+id/sitena"
+         android:hint="name"/>
+     <EditText
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:id="@+id/sitede"
+         android:hint="description"/>
+     <Button
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="ADD"
+         android:onClick="insertallsite"
+         />
+ </LinearLayout>
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:id="@+id/cover"
+     android:orientation="vertical"
+     >
+ <WebView
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:id="@+id/webview">
+ </WebView>
+ </LinearLayout>
+</android.support.constraint.ConstraintLayout>
